@@ -94,8 +94,6 @@
 
 </div>
 
-<h2 align="center">𝚃𝚑𝚎 𝙲𝚊𝚙𝚝𝚊𝚒𝚗'𝚜 𝙻𝚘𝚐 𝚘' 𝙲𝚘𝚍𝚎 𝚃𝚛𝚎𝚊𝚜𝚞𝚛𝚎𝚜</h2>
-
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickcodeg&repo=Twitter-Clone&theme=dark&bg_color=00000000&"></img>
 
 </div>
