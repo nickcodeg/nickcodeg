@@ -23,6 +23,8 @@
   alt=""
   title=""
   style="display: flex; margin: 0 auto; position: absolute">
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="30" height="30" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30" /></div>
+
 
 <p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ♡ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚒𝚗’ 𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚓𝚘𝚒𝚗𝚒𝚗’ 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 𝚑𝚞𝚗𝚝!</p>
 
