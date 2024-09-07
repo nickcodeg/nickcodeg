@@ -64,7 +64,6 @@
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50px"></img>
-<img src="" width="50px"></img>
 
 </div>
 
@@ -84,19 +83,15 @@
 
 <h2 align="center">𝙼𝚎 𝙲𝚊𝚙𝚝𝚊𝚒𝚗’𝚜 𝙻𝚘𝚐 𝚘' 𝙲𝚘𝚗𝚚𝚞𝚎𝚜𝚝𝚜</h2>
 
-<div align="center">
-
 <div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&hide_rank=true&include_all_commits=true&text_bold=true&" align="left"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&hide_rank=true&include_all_commits=true&text_bold=true&" align="left" width="600px"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5" align="right"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5" align="right" width="600px"></img>
 
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickcodeg&repo=Twitter-Clone&theme=dark&bg_color=00000000&"></img>
-
-</div>
 
 <p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ♡ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚒𝚗’ 𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚓𝚘𝚒𝚗𝚒𝚗’ 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 𝚑𝚞𝚗𝚝!</p>
 
