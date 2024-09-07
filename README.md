@@ -86,11 +86,11 @@
 
 <div align="center">
 
-<div float="left" style="display: flex">  
+<div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&hide_rank=true&include_all_commits=true&text_bold=true&"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&hide_rank=true&include_all_commits=true&text_bold=true&" align="left"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5" align="right"></img>
 
 </div>
 
