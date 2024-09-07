@@ -50,7 +50,13 @@
   title=""
   style="display: flex; margin: 0 auto; position: absolute">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&text_bold=true&)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">𝙼𝚎 𝙲𝚊𝚙𝚝𝚊𝚒𝚗’𝚜 𝙻𝚘𝚐 𝚘' 𝙲𝚘𝚗𝚚𝚞𝚎𝚜𝚝𝚜</h2>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&text_bold=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickcodeg&repo=Twitter-Clone&theme=dark&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ♡ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚒𝚗’ 𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚓𝚘𝚒𝚗𝚒𝚗’ 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 𝚑𝚞𝚗𝚝!</p>
 
