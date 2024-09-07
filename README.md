@@ -28,13 +28,16 @@
 
 <h3 align="center">𝙼𝚎 𝙲𝚘𝚍𝚎 𝙻𝚒𝚗𝚐𝚘</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="20px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="20px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="20px"></img>
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="20px"></img>
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px"></img>
 </div>
 
-#### **Frontend Frameworks & Libraries:**
+<h3 align="center">Frontend Frameworks & Libraries</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50px"></img>
+</div>
 
 #### **Backend & Databases:**
 
@@ -52,11 +55,17 @@
 
 <h2 align="center">𝙼𝚎 𝙲𝚊𝚙𝚝𝚊𝚒𝚗’𝚜 𝙻𝚘𝚐 𝚘' 𝙲𝚘𝚗𝚚𝚞𝚎𝚜𝚝𝚜</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews,discussions_started,discussions_answered,prs_merged,&show_icons=true&theme=dark&bg_color=000000&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&text_bold=true&)](https://github.com/anuraghazra/github-readme-stats)
+<div float="left">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=000000&hide_border=true&custom_title=Stats&hide_rank=true&include_all_commits=true&text_bold=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=000000&hide_border=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![nickcodeg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nickcodeg&theme=dark&hide_border=true&bg_color=000000)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickcodeg&repo=Twitter-Clone&theme=dark&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ♡ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚒𝚗’ 𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚓𝚘𝚒𝚗𝚒𝚗’ 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 𝚑𝚞𝚗𝚝!</p>
 
