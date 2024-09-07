@@ -18,10 +18,16 @@
 - 💬 𝙶𝚘𝚝 𝚝𝚎𝚌𝚑 𝚝𝚛𝚘𝚞𝚋𝚕𝚎𝚜 𝚘𝚛 𝚌𝚘𝚍𝚎 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚒𝚎𝚜? 𝚂𝚎𝚗𝚍 𝚊 𝚙𝚊𝚛𝚕𝚎𝚢 𝚊𝚗𝚍 𝙸’𝚕𝚕 𝚕𝚎𝚗𝚍 𝚊 𝚑𝚊𝚗𝚍!
 - 📫 𝚁𝚎𝚊𝚌𝚑 𝚖𝚎 𝚋𝚢 𝚜𝚎𝚗𝚍𝚒𝚗𝚐 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚒𝚗 𝚊 𝚋𝚘𝚝𝚝𝚕𝚎 (𝚘𝚛 𝚊𝚗 [email](mailto:25nikmehta@gmail.com))
 
-### 🛠️ **Technology I Use**
+<img
+  src="./IMG_20240907_152610.png"
+  alt=""
+  title=""
+  style="display: flex; margin: 0 auto; position: absolute">
 
-#### **Languages:**
-<div>
+<h2 align="center">🛠️ 𝙼𝚎 𝙿𝚒𝚛𝚊𝚝𝚎 𝙶𝚎𝚊𝚛 𝚏𝚘𝚛 𝙲𝚘𝚍𝚎 𝙿𝚕𝚞𝚗𝚍𝚎𝚛𝚒𝚗 🛠️</h2>
+
+<h3 align="center">𝙼𝚎 𝙲𝚘𝚍𝚎 𝙻𝚒𝚗𝚐𝚘</h3>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="20px"></img>
 <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="20px"></img>
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="20px"></img>
