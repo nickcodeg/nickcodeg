@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickcodeg&label=Profile%20views&color=ce9927&style=flat" alt="nickcodeg" align="right"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickcodeg&label=⚓Shipmates+aboard:&color=000000&style=plastic&abbreviated=true" alt="nickcodeg" align="right"/> </p>
 
 <h1 align=center><strong>𝙰𝚑𝚘𝚢, 𝚖𝚊𝚝𝚎𝚢!</strong></h1>
 
