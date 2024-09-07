@@ -21,4 +21,4 @@
 <p align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ♡ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚒𝚗’ 𝚖𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝚓𝚘𝚒𝚗𝚒𝚗’ 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚜𝚞𝚛𝚎 𝚑𝚞𝚗𝚝!</p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickcodeg&label=⚓Shipmates+aboard:&color=000000&style=plastic&abbreviated=true" alt="nickcodeg" align="center"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickcodeg&label=Shipmates+aboard:&color=000000&style=plastic&abbreviated=true" alt="nickcodeg" align="center"/> </p>
