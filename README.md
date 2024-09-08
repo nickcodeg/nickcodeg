@@ -88,9 +88,9 @@
 
 <div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&include_all_commits=true" align="left" width="600px"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=nickcodeg&show=reviews&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=Stats&include_all_commits=true" align="left"></img>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5" align="right" width="600px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickcodeg&theme=dark&bg_color=00000000&hide_border=true&langs_count=5" align="right"></img>
 
 </div>
 
