@@ -1,4 +1,6 @@
-<h1 align=center>𝙰𝚑𝚘𝚢, 𝚖𝚊𝚝𝚎𝚢</h1>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZuNDVkY2VzcWxrZHhyMTF0azZ5b3Nob2NqdG9rdHpkZTA5Y2RkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JrZEc84OFlTYcRaqSx/giphy.gif" width="400px"></img>
+
+<h1>𝙰𝚑𝚘𝚢, 𝚖𝚊𝚝𝚎𝚢</h1>
 
 𝙸 𝚊𝚖 **𝙽𝚒𝚔𝚑𝚒𝚕**, 𝚊 𝚍𝚎𝚍𝚒𝚌𝚊𝚝𝚎𝚍 **𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛** 𝚊𝚗𝚍 **𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝** 𝚗𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚜𝚎𝚊𝚜 𝚘𝚏 𝚌𝚘𝚍𝚎! 🌊 
 
@@ -10,7 +12,7 @@
 
 <hr/>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFwemtsZ2UwN3cwN3ZrOW16cm4za3JpbXhoYWo0bGJsNnhtcmVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y0V1NBjMz8cmZV15y8/giphy.gif" width="400px" align="right"></img>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29hMnYxemVkZ3NvMXM4MXU0NnA5cWtxY21rdnV1NHJnczB6YjN1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wXTlDKOY0dFSfWU5cS/giphy.gif" width="400px" align="right"></img>
 
 - 🔭 **𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚗𝚊𝚟𝚒𝚐𝚊𝚝𝚒𝚗𝚐** 𝚊 𝚏𝚕𝚎𝚎𝚝 𝚘𝚏 𝚎𝚡𝚌𝚒𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚎𝚎𝚔𝚒𝚗𝚐 𝚖𝚢 𝚗𝚎𝚡𝚝 𝚐𝚛𝚊𝚗𝚍 𝚊𝚍𝚟𝚎𝚗𝚝𝚞𝚛𝚎!
 - 🌱 **𝙳𝚒𝚟𝚒𝚗𝚐 𝚍𝚎𝚎𝚙 𝚒𝚗𝚝𝚘** **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**, 𝚖𝚊𝚜𝚝𝚎𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚌𝚛𝚎𝚝𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚜𝚎𝚊𝚜.
