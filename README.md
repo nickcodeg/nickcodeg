@@ -8,11 +8,7 @@
 
 𝙹𝚘𝚒𝚗 𝚖𝚎 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚝𝚑𝚛𝚒𝚕𝚕𝚒𝚗𝚐 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚜 𝚠𝚎 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚑𝚘𝚛𝚒𝚣𝚘𝚗𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛! 🚀
 
-<img
-  src="./torn-paper-black-background.png"
-  alt=""
-  title=""
-  style="display: flex; margin: 0 auto; position: absolute">
+<hr/>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFwemtsZ2UwN3cwN3ZrOW16cm4za3JpbXhoYWo0bGJsNnhtcmVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y0V1NBjMz8cmZV15y8/giphy.gif" width="400px" align="right"></img>
 
@@ -22,11 +18,7 @@
 - 💬 **𝙶𝚘𝚝 𝚝𝚎𝚌𝚑 𝚝𝚛𝚘𝚞𝚋𝚕𝚎𝚜 𝚘𝚛 𝚌𝚘𝚍𝚒𝚗𝚐 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚒𝚎𝚜?** 𝚂𝚑𝚘𝚘𝚝 𝚖𝚎 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎, 𝚊𝚗𝚍 𝙸'𝚕𝚕 𝚋𝚎 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙!
 - 📫 **𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝** 𝚋𝚢 𝚜𝚎𝚗𝚍𝚒𝚗𝚐 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚒𝚗 𝚊 𝚋𝚘𝚝𝚝𝚕𝚎 (𝚘𝚛 [email](mailto:25nikmehta@gmail.com)).
 
-<img
-  src="./IMG_20240907_152610.png"
-  alt=""
-  title=""
-  style="display: flex; margin: 0 auto; position: absolute">
+<hr/>
 
 <h2 align="center">𝚃𝚎𝚌𝚑 𝙸 𝚞𝚜𝚎</h2>
 
@@ -82,11 +74,7 @@
 </div>
 
 
-<img
-  src="./torn-paper-black-background.png"
-  alt=""
-  title=""
-  style="display: flex; margin: 0 auto; position: absolute">
+<hr/>
 
 <h2 align="center">𝚂𝚝𝚊𝚝𝚜</h2>
 
