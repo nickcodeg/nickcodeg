@@ -3,5 +3,10 @@
 </p>
 
 <p align="center">
-  <strong>𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝</strong> 𝚋𝚢 𝚜𝚎𝚗𝚍𝚒𝚗𝚐 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚛 <a href="mailto:tobecoolaf@gmail.com">𝚎𝚖𝚊𝚒𝚕</a>.
+  <strong>Reach Out</strong> by sending a message or <a href="mailto:tobecoolaf@gmail.com">email</a>.
+</p>
+
+
+<p align="center">
+  Buy me a bottle of <a href="http://buymeacoffee.com/nickkcode">beer</a>.
 </p>
