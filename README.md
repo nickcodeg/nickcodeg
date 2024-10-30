@@ -7,6 +7,4 @@
 </p>
 
 
-<p align="center">
-  Buy me a bottle of <a href="http://buymeacoffee.com/nickkcode">beer</a>.
-</p>
+# <p align="center">Buy me a bottle of <a href="http://buymeacoffee.com/nickkcode">beer</a>.</p>
