@@ -18,19 +18,11 @@
     </tr>
     <tr>
       <td><img src="./assets/icons/nodejs.svg" alt="Node.js" width="50"></td>
-      <td><img src="./assets/icons/django.svg" alt="Django" width="50"></td>
-      <td><img src="./assets/icons/docker.svg" alt="Docker" width="50"></td>
-      <td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" width="50"></td>
-      <td><img src="./assets/icons/graphql.svg" alt="GraphQL" width="50"></td>
       <td><img src="./assets/icons/redux.svg" alt="Redux" width="50"></td>
-    </tr>
-    <tr>
       <td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="50"></td>
       <td><img src="./assets/icons/aws.svg" alt="AWS" width="50"></td>
       <td><img src="./assets/icons/express.svg" alt="Express.js" width="50"></td>
-      <td><img src="./assets/icons/neovim.svg" alt="Neovim" width="50"></td>
-      <td><img src="./assets/icons/solidity.svg" alt="Solidity" width="50"></td>
-      <td><img src="./assets/icons/rust.svg" alt="Rust" width="50"></td>
+      <td><img src="./assets/icons/docker.svg" alt="Docker" width="50"></td>
     </tr>
   </table>
 
@@ -41,5 +33,6 @@
     <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
   </a>
 
-  > _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
+> _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
+
 </div>
