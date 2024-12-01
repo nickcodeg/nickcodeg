@@ -14,33 +14,33 @@
     <td><img src="./assets/icons/nextjs.svg" alt="Next.js" width="50"></td>
     <td><img src="./assets/icons/tailwind.svg" alt="Tailwind CSS" width="50"></td>
     <td><img src="./assets/icons/typescript.svg" alt="TypeScript" width="50"></td>
+    <td><img src="./assets/icons/python.svg" alt="Python" width="50"></td>
   </tr>
   <tr>
-    <td><img src="./assets/icons/python.svg" alt="Python" width="50"></td>
     <td><img src="./assets/icons/nodejs.svg" alt="Node.js" width="50"></td>
     <td><img src="./assets/icons/django.svg" alt="Django" width="50"></td>
     <td><img src="./assets/icons/docker.svg" alt="Docker" width="50"></td>
     <td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" width="50"></td>
-  </tr>
-  <tr>
     <td><img src="./assets/icons/graphql.svg" alt="GraphQL" width="50"></td>
     <td><img src="./assets/icons/redux.svg" alt="Redux" width="50"></td>
+  </tr>
+  <tr>
     <td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="50"></td>
     <td><img src="./assets/icons/aws.svg" alt="AWS" width="50"></td>
     <td><img src="./assets/icons/express.svg" alt="Express.js" width="50"></td>
-  </tr>
-  <tr>
     <td><img src="./assets/icons/npm.svg" alt="NPM" width="50"></td>
     <td><img src="./assets/icons/neovim.svg" alt="Neovim" width="50"></td>
     <td><img src="./assets/icons/solidity.svg" alt="Solidity" width="50"></td>
-    <td><img src="./assets/icons/rust.svg" alt="Rust" width="50"></td>
-    <td><img src="./assets/icons/tensorflow.svg" alt="TensorFlow" width="50"></td>
   </tr>
   <tr>
+    <td><img src="./assets/icons/rust.svg" alt="Rust" width="50"></td>
+    <td><img src="./assets/icons/tensorflow.svg" alt="TensorFlow" width="50"></td>
     <td><img src="./assets/icons/numpy.svg" alt="NumPy" width="50"></td>
     <td><img src="./assets/icons/pandas.svg" alt="Pandas" width="50"></td>
     <td><img src="./assets/icons/shadcnui.svg" alt="shadcn/ui" width="50"></td>
     <td><img src="./assets/icons/sass.svg" alt="SASS" width="50"></td>
+  </tr>
+  <tr>
     <td><img src="./assets/icons/solana.svg" alt="Solana" width="50"></td>
   </tr>
 </table>
