@@ -32,6 +32,8 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
   </a>
+  
+<br><br>
 
 > _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
 
