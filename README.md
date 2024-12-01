@@ -50,7 +50,7 @@
   <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickkcode&card_width=500&bg_color=00000000&title_color=9745f5&text_color=9745f5&border_color=9745f5)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkcode&card_width=500&bg_color=00000000&title_color=9745f5&text_color=9745f5&border_color=9745f5)
 
