@@ -49,7 +49,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkcode&layout=compact&card_width=500&hide_progress=true&bg_color=00000000&title_color=9745f5&text_color=9745f5&border_color=9745f5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkcode&card_width=500&bg_color=00000000&title_color=9745f5&text_color=9745f5&border_color=9745f5)
 
 > _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
 </div>
