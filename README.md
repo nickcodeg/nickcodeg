@@ -1,16 +1,9 @@
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5MXo1azlmazZxODJla3Z1OHhpM3YxcmhycnVnMDZ2YTZtMTFxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qW4DTbPUtihjpgtEfw/giphy.gif' width='50px'></img>
-
 <div align='center'>
-
-![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social)
-![Stars](https://img.shields.io/github/stars/nickkcode?style=social)
-
-
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=true&duration=3000&pause=2000&color=9745f5&width=435&lines=Ahoy+Matey!;I'm+Nikhil+-+Developer+from+India;I+love+creating+things." alt="Typing SVG" />
   </a>
-<br/>
+<br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&size=16&duration=1000&pause=1000&color=9745F5&repeat=false&width=435&lines=I+can+work+with" alt="Typing SVG" />
   </a>
@@ -40,7 +33,12 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
   </a>
-  
+
+  <br>
+ 
+  ![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social)
+![Stars](https://img.shields.io/github/stars/nickkcode?style=social)
+
 <br><br>
 
 > _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
