@@ -35,11 +35,11 @@
   </a>
 
   <br>
- 
+  
   ![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social)
-![Stars](https://img.shields.io/github/stars/nickkcode?style=social)
 
-<br><br>
+<br>
+<br>
 
 > _"Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."_ -Howard Thurman
 
