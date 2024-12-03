@@ -1,6 +1,6 @@
 
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrdW11bzVqb2trNnB6ZHg4dTJlbHJ6dnpkdWwybTQzZXg1YTc1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7O6RdWEfvGJNtKowA/giphy.gif' width='40px' align='left'></img>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=false&duration=3000&pause=2000&color=9745f5&width=435&lines=Ahoy+Matey!;I'm+Nikhil+-+Developer+from+India;I+love+creating+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=false&duration=3000&pause=2000&color=9745f5&width=435&lines=Salut+Mon+Ami!;I'm+Nikhil+-+Developer+from+India;I+love+creating+things." alt="Typing SVG" />
   </a>
 
 <div align='center'>
