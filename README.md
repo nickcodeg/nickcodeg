@@ -35,8 +35,11 @@
   </a>
 
   <br>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social)
+<br>  
+
+![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social&logo=github&logoColor=%239745f5&label=Github&labelColor=%239745f5&color=%239745f5)
+<br>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nickkcode?style=social&logoColor=%239745f5&labelColor=%239745f5&color=%239745f5)
 
 <br>
 <br>
