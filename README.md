@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=false&duration=3000&pause=2000&color=9745f5&width=435&lines=Hello+Friend!;Namaste+Mitra!;Hola+Amigo!;Bonjour+Mon+Ami!;Hallo+Freund!;Ciao+Amico!;Konnichiwa+Tomodachi!;Zdravstvuy+Drug!;Olá+Amigo!;Annyeong+Chingu!" alt="Typing SVG" />
 
 <div align='center'>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&size=16&duration=1000&pause=1000&color=9745f5&repeat=false&width=435&lines=It's Nikhil from India" alt="Typing SVG" />
+
 <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&size=16&duration=1000&pause=1000&color=9745f5&repeat=false&width=435&lines=I+can+work+with" alt="Typing SVG" />
