@@ -30,6 +30,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&duration=3000&pause=1000&size=16&color=9745f5&repeat=false&width=435&lines=Github+Stats" alt="Typing SVG" />
   </a>
+  <br>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745f5&dates=9745f5&border=9745f5&background=00000000" alt="GitHub Streak" />
   </a>
