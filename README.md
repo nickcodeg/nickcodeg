@@ -1,11 +1,11 @@
 <div align='center'>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=true&duration=3000&pause=2000&color=9745f5&width=435&lines=Ahoy+Matey!;I'm+Nikhil+-+Developer+from+India;I+love+creating+things." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&center=true&duration=3000&pause=2000&color=E6E6FA&width=435&lines=Ahoy+Matey!;I'm+Nikhil+-+Developer+from+India;I+love+creating+things." alt="Typing SVG" />
   </a>
 <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&size=16&duration=1000&pause=1000&color=9745F5&repeat=false&width=435&lines=I+can+work+with" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&size=16&duration=1000&pause=1000&color=E6E6FA&repeat=false&width=435&lines=I+can+work+with" alt="Typing SVG" />
   </a>
 
   <table>
@@ -28,10 +28,10 @@
   </table>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&duration=3000&pause=1000&size=16&color=9745F5&repeat=false&width=435&lines=Github+Stats" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&center=true&weight=600&duration=3000&pause=1000&size=16&color=E6E6FA&repeat=false&width=435&lines=Github+Stats" alt="Typing SVG" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745F5&dates=9745F5&border=9745F5&background=00000000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=E6E6FA&dates=E6E6FA&border=E6E6FA&background=00000000" alt="GitHub Streak" />
   </a>
 
   <br>
