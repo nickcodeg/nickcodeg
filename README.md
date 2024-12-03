@@ -40,9 +40,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/nickkcode?style=social&logo=github&logoColor=%239745f5&label=Github&labelColor=%239745f5&color=%239745f5)
 <br>
+<a href='https://x.com/nickkcode'>
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/nickkcode?style=social&logoColor=%239745f5&labelColor=%239745f5&color=%239745f5)
-](https://img.shields.io/twitter/follow/nickkcode?style=social&logoColor=%239745f5&labelColor=%239745f5&color=9745f5&link=https%3A%2F%2Fx.com%2Fnickkcode
-)
+](https://img.shields.io/twitter/follow/nickkcode?style=social&logoColor=%239745f5&labelColor=%239745f5&color=9745f5)
+</a>
 <br>
 <br>
 
