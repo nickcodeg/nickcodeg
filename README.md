@@ -38,6 +38,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nickkcode&theme=midnight-purple&stroke=9745f5&dates=9745f5&border=9745f5&background=00000000" alt="GitHub Streak" />
   </a>
+  <br>
+  <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nickkcode&bg_color=00000000&color=9745f5&line=9745f5&point=9745f5&hide_border=true&hide_title=true" />
 
   <br>
 <br>  
